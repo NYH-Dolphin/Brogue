@@ -66,3 +66,5 @@ on how to use it.
 [4]: https://brew.sh/
 
 
+## 3. C/C++ Setup for VSCode
+> https://zhuanlan.zhihu.com/p/130711420
