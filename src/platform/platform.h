@@ -1,4 +1,4 @@
-#include "Rogue.h"
+#include "../brogue/Rogue.h"
 
 #define U_MIDDLE_DOT  0x00b7
 #define U_FOUR_DOTS  0x2237
